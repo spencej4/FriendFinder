@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "Router": "^2.1.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Helps you find the friend you most closely match on the Briggs/Myers spectrum"
 }
