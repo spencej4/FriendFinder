@@ -6,9 +6,7 @@ This app allows users to take a brief Briggs Myers personality assesment test, s
 ## Deployment
 * This App is deployed to Heroku.
 * Link: https://stormy-forest-72090.herokuapp.com/
-
-* Github repo:
-* Link: https://github.com/spencej4/FriendFinder
+* Github repo: https://github.com/spencej4/FriendFinder
 
 ## Built With
 
